@@ -2,7 +2,7 @@
 
 Author: @enreeco (http://enree.co)
 
-Repository: https://github.com/enreeco/alexa-force
+Repository: https://github.com/saisampath123/SF
 
 This is an Apex implementation of the [Alexa Skills Kit](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit) request/response paradigm.
 
