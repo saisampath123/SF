@@ -10,7 +10,7 @@ This is an Apex implementation of the [Alexa Skills Kit](https://developer.amazo
 
 Click the following button to automatically deploy the Salesforce Alexa Skills Kit on your Org.
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=enreeco&repo=alexa-force">
+<a href="https://githubsfdeploy.herokuapp.com?owner=saisampath123&repo=SF">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
